@@ -1,0 +1,9 @@
+{
+  "name": "basecamp",
+  "version": "0.7.2",
+  "description": "Interact with Basecamp via the Basecamp CLI. Full API coverage: projects, todos, cards, messages, files, schedule, chat, and more. Requires the `basecamp` CLI installed and authenticated.",
+  "author": {
+    "name": "Kathleen Hammond",
+    "email": "kathleen@investprudently.com"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mainsail",
+  "owner": {
+    "name": "Kathleen Hammond",
+    "email": "kathleen@investprudently.com"
+  },
+  "metadata": {
+    "description": "Local marketplace for Mainsail Asset Management internal plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "basecamp",
+      "source": "./plugins/basecamp",
+      "description": "Interact with Basecamp via the Basecamp CLI — projects, todos, messages, chat, files, and more.",
+      "version": "0.7.2"
+    }
+  ]
+}
